@@ -3,13 +3,11 @@ body {
 }
 
 .wrapper {
-    border: 2px solid red;
     background: lightgrey;
     width: 1000px;
     margin: auto;
 }
 .top {
-    border: 2px solid blue;
     background: white;
     display: flex;
     align-items: center;
@@ -28,28 +26,23 @@ img {
 }
 .box {
     position: relative;
-    border: 2px solid blue;
     margin: 60px 200px;
     background: white;
     height: 750px;
     width: 600px;
 }
 .title_box {
-    border: 2px solid red;
     width: 600px;
     display: flex;
 }
 .title {
-    border: 2px solid blue;
     float: left;
 }
 .date {
-    border: 2px solid blue;
     color: lightgray;
     float: right;
 }
 .description {
-    border: 2px solid blue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 20px;
     margin-right: 20px;
