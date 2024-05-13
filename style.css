@@ -32,8 +32,8 @@ img {
     width: 600px;
 }
 .title_box {
-    width: 600px;
     display: flex;
+    justify-content: space-between;
 }
 .title {
     float: left;
